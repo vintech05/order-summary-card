@@ -5,7 +5,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    overflow-x: hidden;
 }
 
 :root {
@@ -30,6 +29,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background-color: var(--Pale-blue);
+    overflow-x: hidden;
 }
 
 .hero-img svg{
