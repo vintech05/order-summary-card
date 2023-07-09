@@ -32,7 +32,7 @@ body {
     overflow-x: hidden;
 }
 
-.hero-img svg{
+.hero-img img{
     border-radius: 2em 2em 0 0;
 }
 
@@ -47,7 +47,7 @@ body {
     text-align: center;
     transform: scale(.9);
     border-radius: 2em 2em 2em 2em;
-    background-color: var(--Very-pale-blue);
+    background-color: white;
     box-shadow: rgba(120, 120, 246, 0.15) 0px 13px 27px -5px, rgba(116, 86, 249, 0.45) 0px 8px 16px -8px;
 
 }
@@ -155,7 +155,7 @@ body {
     background: none;
     border: none;
     outline: none;
-    padding-bottom: 2em;
+    padding-bottom: .75em;
     transition: 300ms ease-in-out;
 }
 
