@@ -109,7 +109,7 @@ body {
 .music {
     line-height: 1.5em;
     position: relative;
-    padding: 1em 0 1em 0;
+    padding: 1em 0 .25em 0;
     display: flex;
     flex-direction: row;
     margin-left: 1em;
@@ -169,7 +169,7 @@ body {
     }
 
     .title {
-        padding: 1em 0 .55em 0;
+        padding: .25em 0 .55em 0;
         font-size: 1.5em;
     }
 
